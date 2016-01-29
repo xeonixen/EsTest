@@ -1,2 +1,2 @@
 # EsTest
-Arduindo Electric system test
+Arduino Electric system test
